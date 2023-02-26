@@ -1,0 +1,14 @@
+Bug id -1
+Title - The currency GBP/JPY handeln is displayed in the header of the top banner instead of GBP/USD handeln
+Steps:
+         1. Navigate to capital.com
+         2. Choose German language
+         3. Click button [Burger Menu]
+         4. Click menu section [Traden lernen] (Learn to Trade)
+         5. Click menu item [Forex - Handel] (Forex trading guide)
+         6. Choose currency GBP/USD in sidebar item
+Expected result - The currency GBP/USD handeln is displayed in the header of the top banner
+Actual result - The currency GBP/JPY handeln is displayed in the header of the top banner
+Severity - Minor
+Attachment - Link
+Environment - macOS Big Sur 11.7.2, Safari 16.2
