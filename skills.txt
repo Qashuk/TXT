@@ -1,0 +1,11 @@
+  My skills
+1. Testing theory
+2. Knowledge of client-server architecture
+3. HTTP methods
+4. HTML and CSS
+5. JSON and XML
+6. API
+7. Charles
+8. DevTools
+9. SQL
+10. Python
