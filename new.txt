@@ -1,0 +1,8 @@
+           Information about myself
+Full name - Kalinin Vitalii
+My age - 27 years old
+Numbers of my pets:
+   -cat"Bonnie"
+   -hamster"Jessie"
+   -hamster"Tommie"
+My salary - 3000 dollars
